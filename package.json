@@ -1,0 +1,19 @@
+{
+  "name": "backend_moduler",
+  "version": "1.0.0",
+  "description": "backend series by garg",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilRangpariya/backend_modular.git"
+  },
+  "author": "Akhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilRangpariya/backend_modular/issues"
+  },
+  "homepage": "https://github.com/AkhilRangpariya/backend_modular#readme"
+}
