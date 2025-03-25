@@ -20,7 +20,7 @@ app.use(logReqRes('log.txt'));
 
 // ROUTES
 // PARTICULAR ROUTE HANDLERS ARE CREATE OVER HERE IT'S USER 
-app.use('/user', userRouter);
+app.use('/api/users', userRouter);
 
 app.listen(PORT, () => console.log(`Server started at PORT:${PORT}`));
 
